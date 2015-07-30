@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/swagger-api/swagger-js.git"
   },
-  "main": "index.js",
+  "main": "ip.swagger.client.js",
   "scripts": {
     "build": "gulp build",
     "dev": "gulp watch",
@@ -67,5 +67,6 @@
     "unit.js": "^2.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "license": "apache 2.0"
+  "license": "apache 2.0",
+  "_nativeDependencies": {}
 }

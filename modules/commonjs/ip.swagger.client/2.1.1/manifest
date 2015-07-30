@@ -1,0 +1,10 @@
+version: 2.1.1
+description: swagger-client is a javascript client for use with swaggering APIs.
+author: Tony Tam <fehguy@gmail.com>
+license: apache 2.0
+copyright: Copyright © 2015 Tony Tam
+name: swagger-client
+moduleid: ip.swagger.client
+guid: 55958498-6eb3-4643-ba09-013fa8d632d6
+platform: commonjs
+minsdk: 3.2.0.GA
